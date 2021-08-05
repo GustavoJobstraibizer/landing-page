@@ -14,6 +14,7 @@
   "author": "Guilherme Louro",
   "license": "MIT",
   "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "^7.14.9",
     "@testing-library/react": "^10.0.4",
     "@types/jest": "^25.2.3",
     "@types/react": "^16.9.36",
@@ -23,6 +24,7 @@
     "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^1.10.7",
     "eslint": "^7.1.0",
+    "eslint-config-next": "^11.0.1",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
@@ -32,7 +34,7 @@
     "jest": "^26.0.1",
     "jest-styled-components": "^7.0.2",
     "prettier": "^2.0.5",
-    "typescript": "^3.9.5"
+    "typescript": "^4.3.5"
   },
   "dependencies": {
     "graphql": "^15.5.1",
@@ -43,8 +45,8 @@
     "next-compose-plugins": "^2.2.0",
     "next-optimized-images": "^2.6.1",
     "next-seo": "^4.5.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-icons": "^3.10.0",
     "react-mailchimp-subscribe": "^2.1.0",
     "react-slick": "^0.26.1",

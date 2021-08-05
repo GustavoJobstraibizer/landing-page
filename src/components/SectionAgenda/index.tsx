@@ -4,8 +4,6 @@ import React from 'react'
 import { SectionScheduleProps } from 'types/api'
 import * as S from './styles'
 
-
-
 type Props = {
   sectionSchedule: SectionScheduleProps
 }

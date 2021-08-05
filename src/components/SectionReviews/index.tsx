@@ -6,8 +6,6 @@ import Slider from 'react-slick'
 import { SectionReviewsProps } from 'types/api'
 import * as S from './styles'
 
-
-
 const settings = {
   dots: true,
   arrows: false,
